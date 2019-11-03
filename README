@@ -1,1 +1,5 @@
 Building Custom Linux Systems with the Yocto Project
+Presented on November 15, 2019 at the Seattle GNU/Linux conference. To
+compile the presentation to a PDF:
+
+xelatex yocto.tex
